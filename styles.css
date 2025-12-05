@@ -14,3 +14,11 @@ img{
 h2{
  text-decoration:underline;
 }
+
+#projects{
+  list-style-type:disc;	
+}
+
+li:hover{
+    color:blueviolet;
+}
